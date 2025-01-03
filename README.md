@@ -1,4 +1,4 @@
-## code for Ava hotstuff
+## code for ava hotstuff
 
 
 Instructions for running the code:
