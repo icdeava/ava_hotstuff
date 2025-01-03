@@ -1,0 +1,191 @@
+2023-07-12 15:26:21.441200 [net info] loaded configuration from hotstuff.gen.conf
+2023-07-12 15:26:21.441438 [net info] configuration file ./hotstuff-sec0.conf not found
+ 47:7
+ 46:7
+ 45:7
+ 44:7
+ 43:7
+ 42:7
+ 41:6
+ 40:6
+ 39:6
+ 38:6
+ 37:6
+ 36:6
+ 35:5
+ 34:5
+ 33:5
+ 32:5
+ 31:5
+ 30:5
+ 29:4
+ 12:2
+ 11:1
+ 10:1
+ 9:1
+ 8:1
+ 7:1
+ 6:1
+ 5:0
+ 4:0
+ 3:0
+ 2:0
+ 1:0
+ 0:0
+ 13:2
+ 14:2
+ 15:2
+ 16:2
+ 17:2
+ 18:3
+ 19:3
+ 20:3
+ 21:3
+ 22:3
+ 23:3
+ 24:4
+ 25:4
+ 26:4
+ 27:4
+ 28:4
+2023-07-12 15:26:21.441817 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.441842 [hotstuff info] res[0], res[1], res[2] are: 
+ 43.204.148.4:10000;20000, 
+ 03e14cc0a432d657c0273678708935c831c4fd2c7044842abdddcf25d7490b24bb, 
+ 5d0fb380c454eb50d7d5bec0ddb17cbc66eff936acd72b40273de7cb9cd3d63e
+
+2023-07-12 15:26:21.441862 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.441882 [hotstuff info] res[0], res[1], res[2] are: 
+ 13.234.21.77:10000;20000, 
+ 02c7a5da1c6646cf83afdf229f3d50bd2cc57c1144ba79f6dd5ec7415e116f63a9, 
+ e6afb0bd88f85513ab6aeca91941551a0b7e1a4ab968e2aef1af10f8f16c31ed
+
+2023-07-12 15:26:21.441901 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.441920 [hotstuff info] res[0], res[1], res[2] are: 
+ 3.108.63.64:10000;20000, 
+ 02d0980badbeaae6d0d71b2a5aa49911493b30ff868f2dd080a929011f7f580c48, 
+ 33ac87cfe25cd4e39f1c028d44ad3bc0014c5dea43d05d1a7f5205f41aa1fa6e
+
+2023-07-12 15:26:21.441940 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.441960 [hotstuff info] res[0], res[1], res[2] are: 
+ 65.0.124.43:10000;20000, 
+ 035820bdf608260725e9457d5e5c02b6f961161246bb172ca11595a21a203ada93, 
+ e4e934b75dc33ac79d05377b2713df249505a8a43bea02f403836112c7f4a3df
+
+2023-07-12 15:26:21.441980 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.441997 [hotstuff info] res[0], res[1], res[2] are: 
+ 13.127.212.222:10000;20000, 
+ 037838e1832385ad74f3e8f1354ac5f820479e09e6d9094d8ee3737f5bf2977b40, 
+ 1ecc8cda5137562878d1858913a6814a4f9a92dcc4ce6b1e4366ca14c6af81da
+
+2023-07-12 15:26:21.442016 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442037 [hotstuff info] res[0], res[1], res[2] are: 
+ 3.110.46.239:10000;20000, 
+ 03fd9e5ca52f3e21ff5c456f0fd977a347d47648cf7203640993c56c36a6cb7d1e, 
+ a90ec82afd976d7b5d6e91770d77c5dade6f1fe306e95da168539cf551f3ac58
+
+2023-07-12 15:26:21.442053 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442071 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442090 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442112 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442131 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442149 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442166 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442182 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442200 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442219 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442237 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442261 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442278 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442294 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442310 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442328 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442345 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442367 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442384 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442400 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442418 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442437 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442456 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442475 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442494 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442513 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442533 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442565 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442582 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442613 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442631 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442649 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442668 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442696 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442712 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442729 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442750 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442769 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442790 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442811 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442828 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442848 [hotstuff info] opt_replicas in loop
+
+2023-07-12 15:26:21.442868 [hotstuff info] replicas, all_replicas sizes are 6, 48
+
+2023-07-12 15:26:21.442887 [hotstuff info] idx, cluster_idx is 0, 0
+
+2023-07-12 15:26:21.442908 [hotstuff info] dsadasd 1
+
+2023-07-12 15:26:21.443018 [hotstuff info] dsadasd 2
+
+2023-07-12 15:26:21.443039 [hotstuff info] Default dummy pacemaker with clinworker= 1
+2023-07-12 15:26:21.443055 [hotstuff info] dsadasd 3
+
+2023-07-12 15:26:21.443071 [hotstuff info] dsadasd 3.5
+
+terminate called after throwing an instance of 'std::invalid_argument'
+  what():  ill-formed private key
